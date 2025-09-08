@@ -1,0 +1,12 @@
+09.08 2:55 PM
+Study sources
+https://www.geeksforgeeks.org/python/python-interview-questions/
+https://www.geeksforgeeks.org/python/django-interview-questions/
+https://codersdaily.in/courses/django-rest-framework-tutorial/django-rest-framework-interview-questions
+https://www.geeksforgeeks.org/sql-interview-questions/https://skphd.medium.com/top-25-langchain-interview-questions-and-answers-d84fb23576c8
+https://www.geeksforgeeks.org/python/filter-in-python/
+https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/
+https://chatgpt.com/share/684d2f8a-e9cc-8006-ba18-2d5decaba983
+https://chatgpt.com/share/684d2fa8-4fc8-8006-93a7-b1fb4eb4bc2f
+https://chatgpt.com/share/684d2fc2-dd50-8006-8442-6a8296d8d12c
+
